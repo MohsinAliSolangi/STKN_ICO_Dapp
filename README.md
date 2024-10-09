@@ -16,7 +16,6 @@ Welcome to the STKN ICO DApp, a decentralized web3 application that allows users
 - **Secure & Transparent**: All ICO transactions are managed via smart contracts, ensuring security and transparency.
 
 ## Project Structure
-
 ```
 root/
 │
