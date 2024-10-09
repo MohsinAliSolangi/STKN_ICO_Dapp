@@ -1,8 +1,5 @@
 # STKN ICO DApp (Decentralized ICO Application)
 
-```markdown
-# STKN ICO DApp (Decentralized ICO Application)
-
 Welcome to the STKN ICO DApp, a decentralized web3 application that allows users to participate in an Initial Coin Offering (ICO) and purchase newly created **STKN** (ERC20) tokens. The application is built on blockchain technology, ensuring a secure and trustless environment. This project is composed of two main parts:
 
 - **Client**: The frontend web interface for users to interact with the ICO.
@@ -16,7 +13,6 @@ Welcome to the STKN ICO DApp, a decentralized web3 application that allows users
 - **Secure & Transparent**: All ICO transactions are managed via smart contracts, ensuring security and transparency.
 
 ## Project Structure
-```
 root/
 │
 ├── client/
